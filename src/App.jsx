@@ -180,8 +180,7 @@ export default function App() {
                 <h2 className="text-4xl font-black tracking-tight md:text-5xl">Strategy first. Growth second. Noise last.</h2>
               </div>
               <p className="text-lg leading-8 text-stone-600">
-                Flion is positioned as a professional investment business focused on clarity, discipline, and long-term value. The page avoids risky promises while still sounding confident and capable.
-              </p>
+                Flion is built around a disciplined approach to investment strategy, financial planning, and long-term growth. The company focuses on clear communication, measured decision-making, and professional client relationships.              </p>
             </div>
           </div>
         </section>
@@ -192,7 +191,7 @@ export default function App() {
               <p className="mb-3 text-sm font-bold uppercase tracking-[0.25em] text-amber-700">Services</p>
               <h2 className="text-4xl font-black tracking-tight md:text-5xl">Built for better financial decisions.</h2>
               <p className="mt-4 text-stone-600">
-                Professional service sections that can be adjusted as Flion's offerings become more defined.
+                Strategic financial and advisory services designed to support long-term business and investment objectives.
               </p>
             </div>
 
